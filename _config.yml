@@ -1,2 +1,6 @@
-Current Date and Time (UTC - YYYY-MM-DD HH:MM:SS formatted): 2026-04-29 22:22:21
-Current User's Login: clearlineKris
+title: RegMatrix
+description: ClearLine cannabis regulatory intelligence — state-by-state compliance offerings across the penumbra.
+markdown: kramdown
+exclude:
+  - README.md
+  - LICENSE

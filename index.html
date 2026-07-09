@@ -1,49 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>RegMatrix Landing Page</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>Welcome to RegMatrix</h1>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#features">Features</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <section id="about">
-            <h2>About RegMatrix</h2>
-            <p>RegMatrix is the ultimate solution for [insert product-specific description here]. Our goal is to streamline processes and deliver results that matter.</p>
-        </section>
-        <section id="features">
-            <h2>Features</h2>
-            <ul>
-                <li>Feature 1: [description]</li>
-                <li>Feature 2: [description]</li>
-                <li>Feature 3: [description]</li>
-            </ul>
-        </section>
-        <section id="contact">
-            <h2>Contact Us</h2>
-            <form>
-                <label for="name">Name:</label>
-                <input type="text" id="name" name="name" required>
-                <label for="email">Email:</label>
-                <input type="email" id="email" name="email" required>
-                <input type="submit" value="Submit">
-            </form>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2026 RegMatrix. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+---
+layout: default
+title: RegMatrix — ClearLine Cannabis Regulatory Intelligence
+description: State-by-state cannabis compliance offerings across the penumbra.
+---
+
+<section class="hero">
+    <span class="tag">ClearLine · Regulatory Intelligence</span>
+    <h1>RegMatrix</h1>
+    <p>Source-backed, state-by-state cannabis compliance intelligence — built as a coordinated set of documents that together map a state's regulatory landscape, its gray zones, field operations, statutory authority, policy rationale, and competitive context.</p>
+</section>
+
+<section id="doctrine">
+    <h2>The RegMatrix Doctrine</h2>
+    <p class="lede">Every complete state offering is composed of six documents. Each stands alone; together they are the product.</p>
+    <div class="doc-grid">
+        <div class="doc-card">
+            <span class="tagline">Entity</span>
+            <h3>State Profile</h3>
+            <p>Regulatory snapshot — agencies, legal status, license types, METRC, key statutes, tax architecture.</p>
+        </div>
+        <div class="doc-card">
+            <span class="tagline">Gray Zones</span>
+            <h3>Penumbrant Paper</h3>
+            <p>Seven penumbral risk zones — where the rule is unclear, contested, or untested.</p>
+        </div>
+        <div class="doc-card">
+            <span class="tagline">Field Ops</span>
+            <h3>WCE</h3>
+            <p>Operational reference — METRC mechanics, inspection checklists, transport SOPs, compliance calendar, enforcement playbooks.</p>
+        </div>
+        <div class="doc-card">
+            <span class="tagline">Authority</span>
+            <h3>RegBible</h3>
+            <p>Statutory authority — citations per compliance domain, organized for quick lookup.</p>
+        </div>
+        <div class="doc-card">
+            <span class="tagline">Policy</span>
+            <h3>Reg &amp; Pol</h3>
+            <p>Analytical layer — legislative history, stakeholder map, current debates, policy tensions.</p>
+        </div>
+        <div class="doc-card">
+            <span class="tagline">Context</span>
+            <h3>Context Map</h3>
+            <p>Regulatory context — timeline, economics, enforcement climate, cross-state comparison.</p>
+        </div>
+    </div>
+</section>
+
+<section id="methodology">
+    <h2>Methodology</h2>
+    <p class="lede">Two boundaries define the quality of an offering.</p>
+    <p><strong>WCE vs. Reg &amp; Pol.</strong> The WCE is the <em>mechanic</em> — what an operator does, and by when. Reg &amp; Pol is the <em>why and who</em> — how the rules got that way and who is still fighting over them. A procedure that needs a gray-zone caveat gets one sentence of reference, not three paragraphs of legislative intent.</p>
+    <p><strong>Source-backed, confidence-tagged.</strong> Every claim carries a citation and a high / medium / low confidence tag. Sources are point-in-time; stale content is flagged. This is regulatory intelligence, not legal advice.</p>
+</section>
+
+<section id="index">
+    <h2>Master Index — State Selector</h2>
+    <p class="lede">Select a state to open its offering. <span class="badge complete">Complete</span> offerings carry all six documents. <span class="badge progress">In progress</span> states have penumbral / statutory papers under development.</p>
+
+    <div class="status-group">
+        <h3>Complete Offerings</h3>
+        <div class="state-grid">
+            <a class="state-card" href="{{ '/states/ohio/' | relative_url }}">
+                <span class="name">Ohio</span>
+                <span class="badge complete">Complete</span>
+            </a>
+            <a class="state-card" href="{{ '/states/minnesota/' | relative_url }}">
+                <span class="name">Minnesota</span>
+                <span class="badge complete">Complete</span>
+            </a>
+        </div>
+    </div>
+
+    <div class="status-group">
+        <h3>Papers In Progress</h3>
+        <div class="state-grid">
+            <span class="state-card muted"><span class="name">Pennsylvania</span><span class="badge progress">In progress</span><span class="note">Penumbral &amp; statutory papers</span></span>
+            <span class="state-card muted"><span class="name">Texas</span><span class="badge progress">In progress</span><span class="note">Penumbral &amp; statutory papers</span></span>
+            <span class="state-card muted"><span class="name">Nebraska</span><span class="badge progress">In progress</span><span class="note">Penumbral &amp; statutory papers</span></span>
+            <span class="state-card muted"><span class="name">Missouri</span><span class="badge progress">In progress</span><span class="note">Penumbral &amp; statutory papers</span></span>
+            <span class="state-card muted"><span class="name">Michigan</span><span class="badge progress">In progress</span><span class="note">Penumbral &amp; statutory papers</span></span>
+            <span class="state-card muted"><span class="name">Georgia</span><span class="badge progress">In progress</span><span class="note">Penumbral &amp; statutory papers</span></span>
+            <span class="state-card muted"><span class="name">Colorado</span><span class="badge progress">In progress</span><span class="note">Penumbral &amp; statutory papers</span></span>
+            <span class="state-card muted"><span class="name">Alaska</span><span class="badge progress">In progress</span><span class="note">Penumbral &amp; statutory papers</span></span>
+        </div>
+    </div>
+
+    <p class="lede" style="margin-top:8px;">More states are on the roadmap. Partial papers are maintained in the Hexa_Spire working repository pending full six-document builds.</p>
+</section>
