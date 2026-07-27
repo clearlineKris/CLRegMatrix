@@ -135,7 +135,7 @@ Minnesota's cannabis market was built through a legislative process that passed 
 
 ---
 
-## Strategic Notes for ClearLine Operators
+## Strategic Notes for Veridion Operators
 
 1. **Minnesota is a market for patient operators.** The first cohort of social equity licensees is building operations under emergency rules that will change when permanent rules finalize. Operators who engage early — while OCM is still building and guidance is fluid — can shape the compliance conversation. Operators who wait for certainty will always be behind.
 
