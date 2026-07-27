@@ -10,7 +10,7 @@ confidence: sample
 
 # Minnesota Context Map — Sample Preview
 
-> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This teaser preserves navigation only.
+> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This is a sample preview — source docs maintained in the Veridion vault.
 
 ## What the full RegMatrix offers Minnesota
 
@@ -23,4 +23,4 @@ Key structural features at a glance:
 - **Canopy tier system:** Tier 1 through Tier 5 cultivation licenses reflect agricultural lobbying, not consumer demand
 - **16–19% combined tax rate** (excise + sales tax on licensed product)
 
-<p style="font-size:0.85rem;color:#64748b;">Canonical source → <a href="https://github.com/clearlineKris/tvk_hrzn2/blob/main/03_Pillars/Veridion/RegMatrix/minnesota/state-minnesota-context-map.md">tvk_hrzn2</a></p>
+<p style="font-size:0.85rem;color:#64748b;">Canonical source → [Veridion source — tvk_hrzn2 vault]</p>
