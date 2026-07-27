@@ -10,7 +10,7 @@ confidence: sample
 
 # Ohio Context Map — Sample Preview
 
-> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This teaser preserves navigation only.
+> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This is a sample preview — source docs maintained in the Veridion vault.
 
 ## What the full RegMatrix offers Ohio
 
@@ -23,4 +23,4 @@ Key structural features:
 - **Home grow** — 6 plants/person, 12/household (partially operationalized as of 2025)
 - **17%+ combined tax rate** (10% excise + standard sales tax)
 
-<p style="font-size:0.85rem;color:#64748b;">Canonical source → <a href="https://github.com/clearlineKris/tvk_hrzn2/blob/main/03_Pillars/Veridion/RegMatrix/ohio/state-ohio-context-map.md">tvk_hrzn2</a></p>
+<p style="font-size:0.85rem;color:#64748b;">Canonical source → [Veridion source — tvk_hrzn2 vault]</p>
