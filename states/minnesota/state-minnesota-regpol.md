@@ -10,16 +10,15 @@ confidence: sample
 
 # Minnesota Reg & Pol — Sample Preview
 
-> **This is a Veridion sample teaser.** Full canonical Reg & Pol narrative with legislative history, stakeholder map, and current policy tensions — migrated to tvk_hrzn2 (03_Pillars/Veridion/RegMatrix/minnesota/state-minnesota-regpol.md). This placeholder preserves navigation structure only.
+> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This teaser preserves navigation only.
 
 ## Policy Context (Summary)
 
-Minnesota's cannabis framework reflects legislative compromise rather than ballot-mandate expansion — a structure that rewards patience and political intelligence from operators willing to track OCM rulemaking sessions and legislative calendar shifts.
+Minnesota's cannabis framework reflects legislative compromise rather than voter mandate — structural consequences flow from that origin story. Compliance strategy here rewards patience and political intelligence:
 
-Key tensions shaping Minnesota compliance:
-1. Legislative gridlock risk (passed 71–60 in House — slim margin)
-2. Social equity implementation (50%+ set-aside with contested qualification criteria)
-3. Hemp-derived market competition (unregulated, untested, untaxed)
-4. METRC dual-use complexity (separate medical and adult-use inventory tracking)
+Three tensions drive the Minnesota Reg & Pol landscape:
+1. **Legislative gridlock risk:** HF 100 passed 71–60 in the House — slim margin vulnerable to member shifts
+2. **Social equity roll-out:** 50%+ license set-aside is real, but qualification criteria have been contested
+3. **Hemp-derived competition:** Unregulated, untested, age-unverified — a structural price advantage licensed operators cannot match
 
 <p style="font-size:0.85rem;color:#64748b;">Canonical source → <a href="https://github.com/clearlineKris/tvk_hrzn2/blob/main/03_Pillars/Veridion/RegMatrix/minnesota/state-minnesota-regpol.md">tvk_hrzn2</a></p>
