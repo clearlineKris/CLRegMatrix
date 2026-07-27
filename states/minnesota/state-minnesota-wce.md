@@ -161,7 +161,7 @@ This document is designed for direct field use. If a step requires judgment, the
 - **No license required** — but Chapter 390's cultivation rules apply to licensed cultivation facilities, not home grow. Home grow is legal, but municipalities may regulate the manner of cultivation (not prohibit it) under local police powers.
 - **Sales prohibition:** Home-grown product may not be sold. Personal use only.
 - **Source of plants/seeds:** Legal to purchase from licensed retailers or from other adults (gift economy). Transporting untested clones across state lines remains a federal offense.
-- **Note for ClearLine clients:** Home cultivation clients should be advised that while cultivation is legal at the state level, landlord lease agreements, mortgage covenants, and local ordinances may impose additional restrictions that Chapter 390 does not preempt.
+- **Note for Veridion clients:** Home cultivation clients should be advised that while cultivation is legal at the state level, landlord lease agreements, mortgage covenants, and local ordinances may impose additional restrictions that Chapter 390 does not preempt.
 
 ---
 
