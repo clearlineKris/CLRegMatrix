@@ -1,6 +1,6 @@
 # CLRegMatrix
 
-The published product site for **ClearLine's RegMatrix** — state-by-state cannabis regulatory intelligence across the penumbra.
+The published product site for **Veridion's RegMatrix** — state-by-state cannabis regulatory intelligence across the penumbra.
 
 Live at: `https://clearlinekris.github.io/CLRegMatrix/` (enable GitHub Pages → Settings → Pages → source: `main`, folder: `/root`).
 
