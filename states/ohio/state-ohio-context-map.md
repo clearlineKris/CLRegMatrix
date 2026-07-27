@@ -112,7 +112,7 @@ Ohio's adult-use cannabis market was created by voter approval in November 2023 
 
 ---
 
-## Strategic Notes for ClearLine Operators
+## Strategic Notes for Veridion Operators
 
 1. **Ohio is a political intelligence market, not a compliance certainty market.** Monitor legislative session calendar. Track every committee vote on cannabis-related bills. Build relationships with DCC staff.
 
