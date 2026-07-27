@@ -10,7 +10,7 @@ confidence: sample
 
 # Ohio Reg & Pol — Sample Preview
 
-> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This teaser preserves navigation only.
+> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This is a sample preview — source docs maintained in the Veridion vault.
 
 ## Policy Context (Summary)
 
@@ -18,4 +18,4 @@ Ohio's cannabis regulatory framework is fundamentally shaped by the conflict bet
 
 The enforcement environment is education-first for good-faith operators but zero-tolerance for specific violations from day one (minors/diversion/METRC failures). Compliance strategy in Ohio cannot be separated from political intelligence — the regulatory landscape shifts month to month.
 
-<p style="font-size:0.85rem;color:#64748b;">Canonical source → <a href="https://github.com/clearlineKris/tvk_hrzn2/blob/main/03_Pillars/Veridion/RegMatrix/ohio/state-ohio-regpol.md">tvk_hrzn2</a></p>
+<p style="font-size:0.85rem;color:#64748b;">Canonical source → [Veridion source — tvk_hrzn2 vault]</p>
