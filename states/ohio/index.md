@@ -12,7 +12,7 @@ description: Ohio cannabis regulatory intelligence — Veridion sample offering 
 
 <section style="border:none;padding-top:24px;">
     <h2>RegMatrix Offering — Sample Preview</h2>
-    <p>This is a <strong>sample teaser</strong> for the Veridion RegMatrix Ohio offering. Full canonical content lives in the <a href="https://github.com/clearlineKris/tvk_hrzn2/tree/main/03_Pillars/Veridion/RegMatrix/ohio">tvk_hrzn2 vault</a> (03_Pillars/Veridion/RegMatrix/ohio/).</p>
+    <p>This is a <strong>sample teaser</strong> for the Veridion RegMatrix Ohio offering. Full canonical content lives in the [Veridion source — tvk_hrzn2 vault] (03_Pillars/Veridion/RegMatrix/ohio/).</p>
 
     <div class="doc-links">
         <div class="d-name">State Profile</div>
