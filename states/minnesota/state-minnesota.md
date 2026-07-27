@@ -12,7 +12,7 @@ description: Sample preview of Veridion RegMatrix — Minnesota cannabis regulat
 
 <section style="border:none;padding-top:24px;">
     <h2>RegMatrix — Minnesota Sample</h2>
-    <p>This <strong>sample teaser</strong> gives a glimpse of the Veridion RegMatrix Minnesota offering. Full canonical content lives in <a href="https://github.com/clearlineKris/tvk_hrzn2/tree/main/03_Pillars/Veridion/RegMatrix/minnesota">tvk_hrzn2</a>.</p>
+    <p>This <strong>sample teaser</strong> gives a glimpse of the Veridion RegMatrix Minnesota offering. Full canonical content lives in [Veridion source — tvk_hrzn2 vault].</p>
 
     <div class="doc-links">
         <div class="d-name">State Profile</div>
