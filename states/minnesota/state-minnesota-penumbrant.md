@@ -78,7 +78,7 @@ Systematic mapping of gray zones, unresolved tensions, and enforcement ambiguiti
 
 **What §181.938 doesn't resolve:** Employers may still maintain drug-free workplace policies and test under reasonable suspicion, post-accident, or random testing protocols — but cannot discipline for a positive test alone if no impairment evidence exists. This creates an asymmetry: employers can't terminate on cannabis test results alone, but also have no reliable impairment metric to supplement the test. In safety-sensitive industries (construction, transport, healthcare), the carve-outs effectively swallow the rule.
 
-**Field risk for ClearLine clients:** Clients operating in Minnesota who maintain blanket zero-tolerance policies are likely in violation of §181.938. Clients with safety-sensitive positions (DOT-regulated, healthcare, construction) have defensible carve-outs. The gray area is supervisory and office roles where a positive test alone cannot be the basis for discipline.
+**Field risk for Veridion clients:** Clients operating in Minnesota who maintain blanket zero-tolerance policies are likely in violation of §181.938. Clients with safety-sensitive positions (DOT-regulated, healthcare, construction) have defensible carve-outs. The gray area is supervisory and office roles where a positive test alone cannot be the basis for discipline.
 
 **Regulatory gap severity:** MEDIUM — actively enforced; Department of Labor and Industry receives complaints; back-pay and reinstatement remedies are real.
 
