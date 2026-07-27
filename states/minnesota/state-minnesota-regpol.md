@@ -176,13 +176,13 @@ Permanent rulemaking (Minn. R. Ch. 8200–8215) is still in progress. Several in
 
 The proposed 2025 legislation to extend OCM authority over hemp-derived products failed. Advocates for the licensed market will push again in 2026. The hemp industry will push back. The outcome will materially affect the competitive position of licensed dispensaries vs. tobacco shop/convenience store sales.
 
-**Relevance:** This is the single highest-stakes regulatory battle in Minnesota cannabis for 2026. ClearLine clients operating in licensed retail should model the business case with and without hemp-derived competition.
+**Relevance:** This is the single highest-stakes regulatory battle in Minnesota cannabis for 2026. Veridion clients operating in licensed retail should model the business case with and without hemp-derived competition.
 
 ### 3. Social Equity Program Evaluation
 
 The social equity license program is in its first operational cohort. Early data on whether social equity licensees are achieving operational sustainability — or whether the combination of capital constraints, compliance burden, and competitive pressure is creating a two-tier market — will drive legislative scrutiny. If the program produces a high failure rate among social equity licensees, critics will use it to argue the program should be restructured.
 
-**Relevance:** Program integrity is politically salient. OCM has strong incentive to make the first cohort successful. ClearLine clients in the social equity pipeline should ensure their compliance posture is beyond reproach — regulatory action against a social equity licensee would be politically costly for OCM and would invite legislative intervention.
+**Relevance:** Program integrity is politically salient. OCM has strong incentive to make the first cohort successful. Veridion clients in the social equity pipeline should ensure their compliance posture is beyond reproach — regulatory action against a social equity licensee would be politically costly for OCM and would invite legislative intervention.
 
 ### 4. Municipal Delivery Conflict
 
