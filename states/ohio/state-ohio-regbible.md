@@ -7,7 +7,7 @@ description: Statutory authority overview — Ohio sample preview for Veridion R
 <div class="state-head">
     <span class="badge sample">Sample</span>
     <h1>Ohio RegBible — Sample</h1>
-    <p class="summary">Statutory authority highlights for Ohio cannabis compliance. Full canonical RegBible — ORC §3780 / §3796 and DCC rules — in <a href="https://github.com/clearlineKris/tvk_hrzn2/tree/main/03_Pillars/Veridion/RegMatrix/ohio">tvk_hrzn2</a>.</p>
+    <p class="summary">Statutory authority highlights for Ohio cannabis compliance. Full canonical RegBible — ORC §3780 / §3796 and DCC rules — in [Veridion source — tvk_hrzn2 vault].</p>
 </div>
 
 <section style="border:none;padding-top:24px;">
@@ -21,6 +21,6 @@ description: Statutory authority overview — Ohio sample preview for Veridion R
         <li><strong>Rules:</strong> DCC administrative rules in active development; subject to legislative amendment monthly</li>
     </ul>
 
-    <p style="font-size:0.85rem;color:#64748b;">Canonical source → <a href="https://github.com/clearlineKris/tvk_hrzn2/blob/main/03_Pillars/Veridion/RegMatrix/ohio/state-ohio-regbible.md">tvk_hrzn2</a></p>
+    <p style="font-size:0.85rem;color:#64748b;">Canonical source → [Veridion source — tvk_hrzn2 vault]</p>
     <a class="backlink" href="{{ '/' | relative_url }}">← Back to Master Index</a>
 </section>
