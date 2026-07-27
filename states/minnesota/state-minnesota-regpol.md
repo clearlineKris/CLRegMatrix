@@ -10,7 +10,7 @@ confidence: sample
 
 # Minnesota Reg & Pol — Sample Preview
 
-> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This teaser preserves navigation only.
+> **Veridion sample.** Full canonical content migrated to tvk_hrzn2. This is a sample preview — source docs maintained in the Veridion vault.
 
 ## Policy Context (Summary)
 
@@ -21,4 +21,4 @@ Three tensions drive the Minnesota Reg & Pol landscape:
 2. **Social equity roll-out:** 50%+ license set-aside is real, but qualification criteria have been contested
 3. **Hemp-derived competition:** Unregulated, untested, age-unverified — a structural price advantage licensed operators cannot match
 
-<p style="font-size:0.85rem;color:#64748b;">Canonical source → <a href="https://github.com/clearlineKris/tvk_hrzn2/blob/main/03_Pillars/Veridion/RegMatrix/minnesota/state-minnesota-regpol.md">tvk_hrzn2</a></p>
+<p style="font-size:0.85rem;color:#64748b;">Canonical source → [Veridion source — tvk_hrzn2 vault]</p>
