@@ -7,7 +7,7 @@ description: Work Conditions Exhaustive — Ohio sample preview for Veridion Reg
 <div class="state-head">
     <span class="badge sample">Sample</span>
     <h1>Ohio — WCE Sample</h1>
-    <p class="summary">Sample working conditions overview for Ohio field operations. Full WCE — METRC workflows, inspection checklists, transport SOPs — lives in <a href="https://github.com/clearlineKris/tvk_hrzn2/tree/main/03_Pillars/Veridion/RegMatrix/ohio">tvk_hrzn2</a>.</p>
+    <p class="summary">Sample working conditions overview for Ohio field operations. Full WCE — METRC workflows, inspection checklists, transport SOPs — lives in [Veridion source — tvk_hrzn2 vault].</p>
 </div>
 
 <section style="border:none;padding-top:24px;">
@@ -20,6 +20,6 @@ description: Work Conditions Exhaustive — Ohio sample preview for Veridion Reg
         <li><strong>Transport SOPs:</strong> DCC licensing required; chain-of-custody documentation for all shipments</li>
     </ul>
 
-    <p style="font-size:0.85rem;color:#64748b;">Canonical source → <a href="https://github.com/clearlineKris/tvk_hrzn2/blob/main/03_Pillars/Veridion/RegMatrix/ohio/state-ohio-wce.md">tvk_hrzn2</a></p>
+    <p style="font-size:0.85rem;color:#64748b;">Canonical source → [Veridion source — tvk_hrzn2 vault]</p>
     <a class="backlink" href="{{ '/' | relative_url }}">← Back to Master Index</a>
 </section>
